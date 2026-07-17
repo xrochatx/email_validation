@@ -1,5 +1,7 @@
 # email_validation
 
+[![CI](https://github.com/xrochatx/email_validation/actions/workflows/ci.yml/badge.svg)](https://github.com/xrochatx/email_validation/actions/workflows/ci.yml)
+
 Proyecto en Python para validar correos desde consola o con interfaz gráfica.
 
 ## Funciones
